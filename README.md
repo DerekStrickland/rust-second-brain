@@ -15,4 +15,3 @@ Collection of useful reference links, materials, and examples.
 - [Adrastea](https://github.com/eiz/adrastea)
 - [Awesome Rust Machine Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning)
 - [Use Python and Rust Together](https://opensource.com/article/23/3/python-loves-rust)
-- 
